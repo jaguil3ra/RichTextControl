@@ -1,4 +1,8 @@
-## RichTextControl
+## This Project was moved to [PowerApps-KitControls](https://github.com/jaguil3ra/PowerApps-KitControls)
+
+
+
+### RichTextControl
 
 A component for PowerApps and Dynamics 365 CE let you to use a rich text control for multilines fields
 
